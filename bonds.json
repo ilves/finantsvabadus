@@ -1,0 +1,32 @@
+[{
+  "fullName": "LHV Group 10.5% subord. bond",
+  "name": "LHVB105033A",
+  "currentBondPrice": 1000,
+  "bondFaceValue": 1000,
+  "coupon": 10.5,
+  "bondEndDate": "2033-09-29"
+},
+{
+  "fullName": "IuteCredit Finance 5Y bond",
+  "name": "IUTE110026A",
+  "currentBondPrice": 100,
+  "bondFaceValue": 100,
+  "coupon": 11,
+  "bondEndDate": "2026-10-06"
+},
+{
+  "fullName": "Bigbank 8.00% subord.bond",
+  "name": "BIGB080032A",
+  "currentBondPrice": 1000,
+  "bondFaceValue": 1000,
+  "coupon": 8,
+  "bondEndDate": "2032-09-21"
+},
+{
+  "fullName": "DelfinGroup 2.5Y bonds",
+  "name": "DGRBFLOT26FA",
+  "currentBondPrice": 1000,
+  "bondFaceValue": 1000,
+  "coupon": 9.5,
+  "bondEndDate": "2026-02-25"
+}]
