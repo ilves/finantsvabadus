@@ -34,7 +34,8 @@
   "isin": "LV0000802718",
   "currentBondPrice": 1000,
   "bondFaceValue": 1000,
-  "coupon": 9.5,
+  "coupon": 9,
+  "variableCoupon": "3mEURIBOR",
   "bondEndDate": "2026-02-25",
   "interestPaymentFrequency": "monthly"
 }]
