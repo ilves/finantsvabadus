@@ -38,4 +38,24 @@
   "variableCoupon": "3mEURIBOR",
   "bondEndDate": "2026-02-25",
   "interestPaymentFrequency": "monthly"
+},
+{
+  "fullName": "mogo 3Y 11% bond",
+  "name": "MOGO110024A",
+  "isin": "LV0000802452",
+  "currentBondPrice": 1000,
+  "bondFaceValue": 1000,
+  "coupon": 11,
+  "bondEndDate": "2024-03-31",
+  "interestPaymentFrequency": "monthly"
+},
+{
+  "fullName": "Sun Finance 3Y bond",
+  "name": "MOGO110024A",
+  "isin": "LV0000860112",
+  "currentBondPrice": 1020,
+  "bondFaceValue": 1000,
+  "coupon": 14.941,
+  "bondEndDate": "2025-09-30",
+  "interestPaymentFrequency": "quarterly"
 }]
